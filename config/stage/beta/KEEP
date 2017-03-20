@@ -1,1 +1,2 @@
-# this file must be keep if current directoy is empty
+# this file must be keep if current directory is empty
+# this directory will sync to remote server root path: `/`
